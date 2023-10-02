@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diego, Computer engineer
+- 👋 Hi, I’m Diego, Computer scientist
 - 👀 I’m interested in Machine Learning, Cryptography and Natural Language Processing (NLP)
 - 🌱 I’m currently learning to programme Telegram Bot and Machine learning algorithms
 - All my projects are available at https://github.com/diegotxegp
