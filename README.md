@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego, Computer scientist
-- 👀 I’m interested in Machine Learning, Cryptography and Natural Language Processing (NLP)
-- 🌱 I’m currently learning to programme Telegram Bot and Machine learning algorithms
+- 👀 I’m interested in Machine Learning, Cryptography and Cybersecurity
+- 🌱 I’m currently doing a PhD on Human-assisted Machine Learning
 - All my projects are available at https://github.com/diegotxegp
 - 📫 How to reach me: https://www.linkedin.com/in/diego-garcia-p/
 
