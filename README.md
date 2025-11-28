@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diego, Computer scientist
-- 👀 I’m interested in Data Science, Cryptography and Cybersecurity
-- 🌱 I’m currently doing a PhD on Human-assisted Machine Learning
+- 👀 I’m interested in Artificial Intelligence, Data Science, Cryptography and Cybersecurity
+- 🌱 I’m currently doing a PhD. on Human-Guided Machine Learning
 - All my projects are available at https://github.com/diegotxegp
 - 📫 How to reach me: https://www.linkedin.com/in/diego-garcia-p/
 
